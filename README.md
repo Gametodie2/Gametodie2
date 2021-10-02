@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gametodie2
 - 👀 I’m interested in AI and cybersecurity
-- 🌱 I’m currently learning industrial engineering in computer science
+- 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: Gametodie2#9730
 
