@@ -8,7 +8,7 @@
 
 ### 📫 Reach me on:
 
-[<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
+[<img align="left" alt="discord" width="22px" src="https://mpng.subpng.com/20190329/baa/kisspng-portable-network-graphics-computer-icons-transpare-braingoodgames-5c9d9c5040dd48.3787607015538330402657.jpg"/>][discord]
 <br />
 
 ### Languages and Tools:
