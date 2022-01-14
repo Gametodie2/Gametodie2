@@ -8,7 +8,7 @@
 
 ### 📫 Reach me on:
 
-[<img align="left" alt="discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"/>][discord]
+[<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
 <br />
 
 ### Languages and Tools:
@@ -23,6 +23,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
+
 [discord]: https://discordapp.com/users/Gametodie2#9730/
 
 <!---
