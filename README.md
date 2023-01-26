@@ -1,4 +1,4 @@
-### Hi there, I'm Gametodie2
+### Hi there, I'm Gametodie2 aka Yani 
 
 ## I'm a student, trying to learn more about computer science
 
