@@ -8,7 +8,9 @@
 
 ### 📫 Reach me on:
 
-[<img align="left" alt="discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"/>][discord]
+[<img align="left" alt="discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png"/>][Discord]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>]
+[Linkedin]
 <br />
 
 ### Languages and Tools:
