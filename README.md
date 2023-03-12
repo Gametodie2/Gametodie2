@@ -27,7 +27,8 @@
 <br />
 <br />
 
-[discord]: https://discordapp.com/users/Gametodie2#9730/
+[Discord]: https://discordapp.com/users/Gametodie2#9730/
+[Linkedin]: https://www.linkedin.com/in/yani-degrande/
 
 <!---
 Gametodie2/Gametodie2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
