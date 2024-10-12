@@ -1,8 +1,8 @@
-### Hi there, I'm Gametodie2 aka Yani 
+### Hi there, I'm Yani Degrande
 
 ## I'm a student, trying to learn more about computer science
 
-- 🌱 I’m currently learning Computer science, at HoGent in Belgium.
+- 🌱 I’m currently learning Industrial Engineering, at UGent in Belgium.
 - 👀 I’m interested in AI and in web and app development.
 - 🐶 I also love animals.
 
